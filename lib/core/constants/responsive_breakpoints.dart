@@ -1,0 +1,13 @@
+// const kTabletBreakpoint = 768.0;
+// const kDesktopBreakpoint = 1366;
+// const kMobileBreakpoint = 360;
+// const kCustomSize = 1300;
+const kBasePaddingM = 16.0;
+const kBasePaddingS = 8.0;
+const kBasePaddingL = 24.0;
+const kButtonHeightM = 50.0;
+const kButtonHeightS = 40.0;
+const kButtonHeightL = 60.0;
+const kBorderRadiusM = 12.0;
+const kBorderRadiusL = 16.0;
+const kBorderRadiusS = 8.0;
