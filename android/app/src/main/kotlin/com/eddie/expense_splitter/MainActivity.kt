@@ -1,4 +1,4 @@
-package com.example.expense_splitter
+package com.eddie.expense_splitter
 
 import io.flutter.embedding.android.FlutterActivity
 
